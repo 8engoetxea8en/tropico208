@@ -1,2 +1,2 @@
 # tropico208
-Tropico 208 Website
+Trópico 208 Website
